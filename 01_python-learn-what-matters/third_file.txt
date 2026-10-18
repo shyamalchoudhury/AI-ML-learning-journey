@@ -1,0 +1,11 @@
+This is the third file
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
+This line has been written using append command
